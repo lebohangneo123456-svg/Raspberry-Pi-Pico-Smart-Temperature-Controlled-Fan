@@ -1,0 +1,5 @@
+*.pdsprj.bak
+*.pdsbak
+*.bak
+__pycache__/
+*.pyc
